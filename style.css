@@ -1,0 +1,29 @@
+.head{
+    color: rgb(6, 118, 255);
+   
+}
+#bglime{
+    color:red;
+    background-color: rgb(240, 234, 46);
+}
+p{
+    color:rgb(13, 3, 107);
+    font-family: cursive;
+}
+#para{
+    color:rgb(7, 196, 23);
+   
+}
+span{
+    color:rgb(8, 8, 8);
+    font-size: 20px;
+}
+li{
+    color:rgb(8, 8, 8);
+    font-size: 20px;
+}
+
+li{
+    color:rgb(18, 47, 235);
+    font-size: 20px;
+}
